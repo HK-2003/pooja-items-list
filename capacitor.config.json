@@ -1,0 +1,7 @@
+{
+  "appId": "com.kishortantri.samagri",
+  "appName": "Pooja Samagri",
+  "webDir": "dist",
+  "server": { "androidScheme": "http", "cleartext": true },
+  "plugins": { "SplashScreen": { "launchShowDuration": 800, "backgroundColor": "#f5efe3" } }
+}
